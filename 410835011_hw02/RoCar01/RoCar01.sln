@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1778
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoCar01", "RoCar01\RoCar01.csproj", "{F5DF807F-169E-40B4-91E5-89E1406FA8AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5DF807F-169E-40B4-91E5-89E1406FA8AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5DF807F-169E-40B4-91E5-89E1406FA8AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5DF807F-169E-40B4-91E5-89E1406FA8AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5DF807F-169E-40B4-91E5-89E1406FA8AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EF273CC-5A82-4A0D-B597-FCE8511C4E07}
+	EndGlobalSection
+EndGlobal
